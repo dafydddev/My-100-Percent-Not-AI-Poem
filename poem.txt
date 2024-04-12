@@ -1,0 +1,4 @@
+Roses are red, violets are blue,
+In the world of Git, there's much to pursue.
+With branches and commits, the code does flow,
+In repositories where dreams tend to grow.
